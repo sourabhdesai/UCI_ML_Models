@@ -1,4 +1,10 @@
-# RESULTS
+# Dataset
+- This is a dataset of human activity as detected by various sensors on a Smartphone.
+- [Dataset overview](https://archive.ics.uci.edu/ml/datasets/Human+Activity+Recognition+Using+Smartphones)
+- [Direct Download Link](https://archive.ics.uci.edu/ml/machine-learning-databases/00240/)
+ - To run the scripts, put the files from the downloaded unpacked zip file into a directory here called `data/`
+
+# Results
 
 ## Random Forest
 
